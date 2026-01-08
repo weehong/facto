@@ -1,0 +1,5 @@
+# Combined dependencies for local development
+python-telegram-bot>=21.0
+openai>=1.0
+python-dotenv>=1.0
+pymongo>=4.0
